@@ -1,0 +1,48 @@
+.heading {
+    /* position: absolute;
+    width: 111px;
+    height: 19px;
+    left: 74px;
+    top: 207px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%; */
+    /* or 19px */
+
+    text-align: left;
+    color: #FBB034;
+
+    margin-left: 5.5vw;
+    margin-right: 5vw;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+
+.text {
+    /* position: absolute;
+    width: 1131px;
+    height: 1034px;
+    left: 75px;
+    top: 280px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 22px; */
+    /* or 110% */
+
+    text-align: left;
+    color: #FFFFFF;
+    
+    font-size: 1vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+p {
+    padding-bottom: 1vw;
+}

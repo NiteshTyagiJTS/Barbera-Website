@@ -1,0 +1,153 @@
+.component1 {
+    /* position: inline; */
+    padding-top: 4vw;
+}
+
+.text1 {
+    /* position: absolute; */
+    display: inline;
+    /* left: 40.47%;
+    right: 40.47%;
+    top: 4.78%;
+    bottom: 93.02%; */
+
+    font-family: 'Jost';
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vw;
+    line-height: 106.5%;
+    /* identical to box height, or 34px */
+
+    color: #FFFFFF;
+}
+
+.text2 {
+    /* position: absolute; */
+    display: inline;
+    /* left: 40.47%;
+    right: 40.47%;
+    top: 4.78%;
+    bottom: 93.02%; */
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vw;
+    line-height: 106.5%;
+    /* identical to box height, or 34px */
+
+
+    color: rgba(251, 176, 52, 1);
+}
+
+.text3 {
+    /* position: absolute; */
+    /* left: 34.84%;
+    right: 34.77%;
+    top: 8.14%;
+    bottom: 88.49%; */
+    /* width: 34vw; */
+    margin-left: 3vw;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 2vw;
+
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+    /* width: 27vw; */
+    /* or 26px */
+
+    text-align: center;
+
+    color: #9A9A9A;
+}
+
+.card {
+    background: #202125;    
+    border-radius: 12px;
+    /* height: 22vw; */
+    margin-bottom: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.scissors {
+    padding-top: 2.5vw;
+    padding-bottom: 1.5vw;
+    height: 8vw;
+}
+
+.text4 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 106.5%;
+    /* identical to box height, or 26px */
+    /* padding-top: 2vw; */
+    padding-bottom: 2vw;
+
+    color: #FFFFFF;
+}
+
+.text5 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.4vw;
+    line-height: 106.5%;
+    /* or 19px */
+
+    text-align: center;
+
+    /* padding-top: 2vw; */
+    /* margin-bottom: 2vw; */
+
+    color: #9A9A9A;
+}
+
+.text6 {
+    display: inline;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2vw;
+    line-height: 106.5%;
+    /* identical to box height, or 26px */
+    /* padding-top: 2vw; */
+    padding-bottom: 2vw;
+
+    color: #FFFFFF;
+}
+
+.text7 {
+    display: inline;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2vw;
+    line-height: 106.5%;
+    /* identical to box height, or 26px */
+    /* padding-top: 2vw; */
+    padding-bottom: 2vw;
+
+    color: rgba(251, 176, 52, 1);
+}
+
+.text8 {
+    /* width: 42vw; */
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 106.5%;
+    /* identical to box height, or 15px */
+
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+    color: #9A9A9A;
+}

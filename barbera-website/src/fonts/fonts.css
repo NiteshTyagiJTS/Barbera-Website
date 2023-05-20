@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('./Jost/Jost-Regular.ttf') format('truetype');
+    /* Add additional font weights and styles if needed */
+  }
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./Poppins/Poppins-Regular.ttf') format('truetype');
+  /* Add additional font weights and styles if needed */
+}

@@ -1,0 +1,35 @@
+.logo {
+    width: 60px;
+    height: 46.72px;
+}
+
+.Navbar {
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    align-items: center;
+}
+.nav {
+    padding-left: 5%;
+    padding-right: 5%;
+    display: inline;
+    
+}
+#navItem {
+    padding-left: 5%;
+    padding-right: 5%;
+    /* padding-top: 5vw; */
+    display: inline;
+    color: #FFFFFF;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    text-align: justify;
+}
+
+#navItem:hover {
+    color: #FBB033;
+}
