@@ -115,7 +115,7 @@
 
   .text-6 {
     /* position: absolute; */
-    width: 70px;
+    /* width: 70px; */
     /* height: 19px;
     left: 705px;
     top: 820px; */
@@ -123,7 +123,7 @@
     font-family: 'Jost';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.5vw;
     line-height: 106.5%;
     /* or 19px */
 
@@ -133,9 +133,19 @@
 
   }
 
+  .col-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .grp-2 {
+    width: max(30vw,40vh);
+  }
+
   .text-7 {
     /* position: absolute; */
-    width: 401px;
+    /* width: 401px; */
     /* height: 152px;
     left: 702px;
     top: 863px; */
@@ -143,7 +153,7 @@
     font-family: 'Jost';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.3vw;
     line-height: 106.5%;
     /* or 19px */
 
@@ -161,7 +171,7 @@
   gap: 10px;
 
   /* position: absolute; */
-  width: 190px;
+  width: 185px;
   height: 52px;
   /* left: 5vw;
   top: 510px; */
